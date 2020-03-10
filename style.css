@@ -561,3 +561,4 @@ sub, sup {
 	z-index: 99999 !important;
 }
 
+.sub-heading { max-width: 810px; }
